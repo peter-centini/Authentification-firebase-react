@@ -1,6 +1,6 @@
-### proget réaliser en React avec Bootstrap et firebase.
+## Projet réaliser en React avec Bootstrap et firebase.
 
-## se projet se connecte à firebase grace à sont API pour que vous puissiez le faire fonctionner il vous faut un .env a la racine du projet avec la structure suivante.
+### Se projet se connecte à firebase grace à sont API pour que vous puissiez le faire fonctionner il vous faut un .env a la racine du projet avec la structure suivante.
 
 ## structure pour le fichier .env 
 ```
